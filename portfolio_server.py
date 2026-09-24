@@ -26,5 +26,6 @@ An interactive portfolio and resume website powered by a custom multi-threaded P
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/rishthik2007-commits/Resume.git](https://github.com/rishthik2007-commits/Resume.git)
+git clone https://github.com/rishthik2007-commits/Resume.git
 cd Resume
+python server.py
